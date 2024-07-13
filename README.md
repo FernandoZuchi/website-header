@@ -38,30 +38,7 @@ Após iniciar o servidor de desenvolvimento, você pode visualizar o projeto ace
 - Vídeo e imagens estáticas
 
 ## Estrutura do Projeto
-src/
-|-- assets/
-| |-- video1.mp4
-| |-- image1.png
-| |-- image2.png
-| |-- image3.png
-| |-- arrow_btn.png
-| |-- play_icon.png
-| |-- pause_icon.png
-|
-|-- Components/
-| |-- Background/
-| | |-- Background.js
-| | |-- Background.css
-| |
-| |-- Hero/
-| | |-- Hero.js
-| | |-- Hero.css
-| |
-| |-- Navbar/
-| |-- Navbar.js
-| |-- Navbar.css
-|
-|-- App.js
+![image](https://github.com/user-attachments/assets/d871b354-93c4-4a80-b1f4-81b9dfd9af61)
 
 ## Contribuidores
 - [Seu Nome](https://github.com/FernandoZuchi)

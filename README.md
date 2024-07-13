@@ -41,7 +41,7 @@ Após iniciar o servidor de desenvolvimento, você pode visualizar o projeto ace
 ![image](https://github.com/user-attachments/assets/d871b354-93c4-4a80-b1f4-81b9dfd9af61)
 
 ## Contribuidores
-- [Seu Nome](https://github.com/FernandoZuchi)
+- [Fernando Zuchi]([https://github.com/FernandoZuchi](https://avatars.githubusercontent.com/u/127436816?v=4))
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
